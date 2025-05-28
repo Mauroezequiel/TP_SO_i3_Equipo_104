@@ -1,0 +1,11 @@
+Beta
+A- actualizado con todos los cambios
+hechos anteriormente en las ramas 
+
+B- si ya que haciendo el merge se realiza una union de cada
+rama y queda todo conectado y a disposicion de cada colaborador
+
+C-
+git pull origin gamma
+git checkout
+git merge gamma
