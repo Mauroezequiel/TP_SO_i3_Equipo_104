@@ -5,4 +5,6 @@ Alfa
 Santiago Aguilar - 192.168.56.1 - 12:12
 
 Beta
-Mauro Gomez - 192.168.56.1 - 12:41
+
+Mauro Gomez - 192.168.56.1 - 12:47
+
