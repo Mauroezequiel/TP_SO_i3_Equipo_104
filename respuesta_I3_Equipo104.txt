@@ -21,3 +21,13 @@ git add .
 git commit -m
 git push origin Gomez
 
+Alfa 
+git pull origin Gomez
+se modifica archivo de texto para poner hora y nombre y apellido
+ipconfig >> beta.txt
+git checkout Gomez
+git add .
+git commit -m
+git push origin Gomez
+
+
