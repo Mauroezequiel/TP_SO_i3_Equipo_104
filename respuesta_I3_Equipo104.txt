@@ -9,3 +9,15 @@ C-
 git pull origin gamma
 git checkout
 git merge gamma
+
+Gamma 
+d.las ramas quedan desactualizadas ya que les falta el ultimo archivo de texto de respuestas
+e.al hacer el merge tuvimos conflicto con un archivo corrupto que se solucionó haciendo un add y un commit nuevamente
+f. git pull origin Gomez
+se modifica archivo de texto para poner hora y nombre y apellido
+ipconfig >> beta.txt
+git checkout Gomez
+git add .
+git commit -m
+git push origin Gomez
+
