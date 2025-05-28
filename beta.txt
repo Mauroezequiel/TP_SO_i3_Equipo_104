@@ -64,3 +64,32 @@ Adaptador de Ethernet Conexi¢n de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+
+
+Santiago Aguilar - 13 13 
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:556:9340:1140:9816:7218:1d3
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:556:9340:e98d:4e92:7017:6f4d
+   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:683e:207b:5b78:bf83
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:556:9340:7532:dad5:acd9:bc08
+   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:7532:dad5:acd9:bc08
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::430b:906d:da68:b759%11
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.104
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::dad7:75ff:feec:62a0%11
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::92bb:39d:1a22:8c3b%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
