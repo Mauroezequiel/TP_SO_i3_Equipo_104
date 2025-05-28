@@ -9,3 +9,15 @@ C-
 git pull origin gamma
 git checkout
 git merge gamma
+
+Gamma 
+d. Las ramas creadas por Beta y Gamma quedan sin el archivo final de respuestas, ya que se crea solo en el main
+e. Al hacer el merge se encontró un archivo corrupto que se pudo solucionar haciendo un add y un commit otra vez
+f. git pull origin Gomez
+   se modifica el archivo de texto con nombre y hora
+   ipconfi >> beta.txt
+   git checkout Gomez
+   git add .
+   git commit
+   git push origin Gomez
+   
